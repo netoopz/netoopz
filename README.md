@@ -1,4 +1,4 @@
-### Olá, me chamo Eudes Carvalho 👋
+### .
 
 ![NETOOPZ GitHub stats](https://github-readme-stats.vercel.app/api?username=netoopz&show_icons=true&theme=radical)
 
